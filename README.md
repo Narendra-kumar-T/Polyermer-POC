@@ -22,7 +22,7 @@ npm start
 <react-el></react-el>
 ```
 
-## Build and serve wrapper
+## Build and serve polymer webpack
 
 ```sh
 cd start-polymer3
